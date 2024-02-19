@@ -1,5 +1,5 @@
 # 💫 About Me:
-We are a team and we are coding for fun thats all.
+ZyncWave IT team is focusing now on software development.
 
 
 # 💻 Tech Stack:
