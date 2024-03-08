@@ -1,5 +1,6 @@
 # 💫 About Me:
 ZyncWave IT team is focusing now on software development.
+(our team has forklift certificate)
 
 
 # 💻 Tech Stack:
