@@ -1,5 +1,6 @@
 # 💫 About Me:
-ZyncWave.
+ZyncWave
+legnagyobb span https://github.com/domedav
 (our team has forklift certificate)
 
 
